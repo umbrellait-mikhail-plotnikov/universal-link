@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "N39VVWZXXP.PushOk",
-            "paths": ["*"]
+            "paths": ["/*"]
         }]
     }
 }
